@@ -1,4 +1,4 @@
-A note taker app using express, css, bootstrap, jquery, Heroku, html, and various npm packages such as fs, require, and util. 
+A note taker app using node.js, express.js, css, bootstrap, jquery, Heroku, html, and various npm packages such as fs, require, and util. 
 
 A user can click on the create note page to open up the note pad. 
 Another html page is loaded where one can type a header and sub text, then save the note to be entered into the table of contents to the left. 
